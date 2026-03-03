@@ -1,6 +1,6 @@
 # Sistema Bancário CLI em Python
 
-## Descrição
+## Descrição.
 
 Este projeto consiste em um sistema bancário desenvolvido em Python com interface via linha de comando (CLI), aplicando os princípios da Programação Orientada a Objetos (POO).
 
